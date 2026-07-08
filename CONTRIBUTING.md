@@ -7,11 +7,11 @@ from fixing a typo to adding a whole new capability.
 
 ## Ways to contribute
 
-- 🐛 **Report bugs** — open an issue with steps to reproduce, your OS, and Python version.
-- 💡 **Suggest features** — open an issue describing the use case.
-- 📖 **Improve docs** — clearer docstrings, better examples, tutorials.
-- 🔧 **Write code** — pick something from the roadmap below or an open issue.
-- 🎥 **Share test scenes** — short before/after videos help us test edge cases.
+- **Report bugs** — open an issue with steps to reproduce, your OS, and Python version.
+- **Suggest features** — open an issue describing the use case.
+- **Improve docs** — clearer docstrings, better examples, tutorials.
+- **Write code** — pick something from the roadmap below or an open issue.
+- **Share test scenes** — short before/after videos help us test edge cases.
 
 ## Getting set up
 
