@@ -1,0 +1,40 @@
+# ── Python ──────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+*.egg
+
+# ── Virtual environments ────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── Test / tooling caches ───────────────────────────────
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ── Downloaded model weights (fetched automatically) ────
+# These are large and are downloaded on first use — never commit them.
+*.pt
+*.onnx
+*.pth
+
+# ── Generated artifacts from running the demos ──────────
+*_frames/
+baseline*.json
+watch_baseline*.json
+
+# ── OS / editor cruft ───────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
